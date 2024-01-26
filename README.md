@@ -14,3 +14,4 @@ For more info info about dotfiles check this: https://www.atlassian.com/git/tuto
 ## Software
 
 1. Podman `sudo dnf install podman`
+2. Caddy `sudo dnf install caddy`
