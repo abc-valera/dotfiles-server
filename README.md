@@ -15,3 +15,4 @@ For more info info about dotfiles check this: https://www.atlassian.com/git/tuto
 
 1. Docker https://developer.fedoraproject.org/tools/docker/docker-installation.html
 2. Caddy `sudo dnf install caddy`
+3. Postfix email server https://docs.fedoraproject.org/en-US/fedora/latest/system-administrators-guide/servers/Mail_Servers/#s2-email-protocols-send
