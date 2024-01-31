@@ -14,6 +14,6 @@ For more info info about dotfiles check this: https://www.atlassian.com/git/tuto
 
 ## Software
 
-1. Docker https://developer.fedoraproject.org/tools/docker/docker-installation.html
+1. Docker https://developer.fedoraproject.org/tools/docker/docker-installation.html and https://developer.fedoraproject.org/tools/docker/compose.html
 2. Caddy `sudo dnf install caddy`
 3. Listmonk email server https://listmonk.app/
